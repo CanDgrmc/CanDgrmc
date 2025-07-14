@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=CanDgrmc&style=flat-square&color=0366d6" alt="Profile views" />
 </div>
 
-## 📊 GitHub Analytics
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CanDgrmc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
