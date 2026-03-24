@@ -10,9 +10,11 @@ I'm a software developer with a passion for building robust backend systems, exp
 * **Dumbable:** An AI-based text simplifier project with a web UI and a Chrome extension to make reading complex texts easier.
 * **Personal Data Aggregator:** A Palantir-inspired personal project focused on bringing different data sources together for visualization and insights.
 
-### 🖥️ homelab & Infrastructure
+### 🖥️ Infrastructure & Deployments
 
-When I'm not writing code I'm usually managing my homelab setup running on four mini PCs. I use Proxmox and Coolify to host my own private cloud enviroment and deploy my services.
+* **Cloud Services:** I use AWS for scalable backend infrastructure and robust cloud solutions.
+* **Serverless & Frontend:** I frequently use Vercel for fast seamless deployemnts of my web apps and frontends
+* **Self-hosted Homelab:** I also manage a local cluster of four mini PCs using Proxmox and Coolify to host my own private cloud enviroment and run my custom backend services.
 
 ---
 *Feel free to explore my repositories or reach out if you want to collaborate on something cool!*
