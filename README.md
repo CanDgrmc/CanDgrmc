@@ -1,3 +1,22 @@
+# Hi there, I'm Can 👋
+
+I'm a software developer with a passion for building robust backend systems, exploring AI capabilities and tinkering with infrastructure. My tech stack usually involves Node.js Laravel, React Native and PostgreSQL. 
+
+### 🔭 Ongoing Projects
+
+* **[EasyAdb](https://github.com/CanDgrmc/EasyAdb):** A TypeScript library I'm building that provides a clean, easy-to-use API for interacting with Android devices via the Android Debug Bridge (ADB). It handles connection management device info retrieval, file transfers, and even automatic ADB downloading and setup.
+* **[doctreen](https://github.com/CanDgrmc/doctreen):** A zero-configuration middleware for Node.js (Express & Fastify) that auto-generates and serves interactive API documentation. It introspects the app at runtime and parses JSDoc comments to create a fully interactive docs UI at your `/docs` endpoint.
+* **PathToWild:** A camping application I'm developing to help users discover and share "Vahşi kamp alanı" (Wild camping areas) and other nature spots.
+* **Dumbable:** An AI-based text simplifier project with a web UI and a Chrome extension to make reading complex texts easier.
+* **Personal Data Aggregator:** A Palantir-inspired personal project focused on bringing different data sources together for visualization and insights.
+
+### 🖥️ homelab & Infrastructure
+
+When I'm not writing code I'm usually managing my homelab setup running on four mini PCs. I use Proxmox and Coolify to host my own private cloud enviroment and deploy my services.
+
+---
+*Feel free to explore my repositories or reach out if you want to collaborate on something cool!*
+
 <div align="center">
   <a href="https://www.linkedin.com/in/can-dgrmc/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
