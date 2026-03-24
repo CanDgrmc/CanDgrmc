@@ -1,6 +1,26 @@
 <div align="center">
 
 # Hi there im Can 👋
+</div>
+
+im a software developer with a passion for building robust backend systems exploring AI capabilities and tinkering with infrastructure my tech stack usually involves Nodejs Laravel React Native and PostgreSQL 
+
+### 🔭 Ongoing Projects
+
+* **[EasyAdb](https://github.com/CanDgrmc/EasyAdb):** A TypeScript library im building that provides a clean easy to use API for interacting with Android devices via the Android Debug Bridge ADB It handles connection management device info retrieval file transfers and even automatic ADB downloading and setup
+* **[doctreen](https://github.com/CanDgrmc/doctreen):** A zero configuration middleware for Nodejs Express & Fastify that auto generates and serves interactive API documentation It introspects the app at runtime and parses JSDoc comments to create a fully interactive docs UI at your `/docs` endpoint
+* **PathToWild:** A camping application im developing to help users discover and share "Vahşi kamp alanı" Wild camping areas and other nature spots
+* **Dumbable:** An AI based text simplifier project with a web UI and a Chrome extension to make reading complex texts easier
+* **Personal Data Aggregator:** A Palantir inspired personal project focused on bringing different data sources together for visualization and insights
+
+### 🖥️ Infrastructure & Deployments
+
+* **Cloud Services:** I use AWS for scalable backend infrastructure and robust cloud solutions
+* **Serverless & Frontend:** I frequently use Vercel for fast seamless deployemnts of my web apps and frontends
+* **Self hosted Homelab:** I also manage a local cluster of four mini PCs using Proxmox and Coolify to host my own private cloud enviroment and run my custom backend services docker containers
+
+---
+<div align="center">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,28 +49,18 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-%23FF9900.svg?style=for-the-badge&logo=amazon-sqs&logoColor=white)
 
+### AI Tools & Ecosystem
+![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-cc9c80?style=for-the-badge&logo=anthropic&logoColor=black)
+![Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-121011?style=for-the-badge&logo=github%20copilot&logoColor=white)
+
 ### Infrastructure & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
-im a software developer with a passion for building robust backend systems exploring AI capabilities and tinkering with infrastructure my tech stack usually involves Nodejs Laravel React Native and PostgreSQL 
-
-### 🔭 Ongoing Projects
-
-* **[EasyAdb](https://github.com/CanDgrmc/EasyAdb):** A TypeScript library im building that provides a clean easy to use API for interacting with Android devices via the Android Debug Bridge ADB It handles connection management device info retrieval file transfers and even automatic ADB downloading and setup
-* **[doctreen](https://github.com/CanDgrmc/doctreen):** A zero configuration middleware for Nodejs Express & Fastify that auto generates and serves interactive API documentation It introspects the app at runtime and parses JSDoc comments to create a fully interactive docs UI at your `/docs` endpoint
-* **PathToWild:** A camping application im developing to help users discover and share "Vahşi kamp alanı" Wild camping areas and other nature spots
-* **Dumbable:** An AI based text simplifier project with a web UI and a Chrome extension to make reading complex texts easier
-* **Personal Data Aggregator:** A Palantir inspired personal project focused on bringing different data sources together for visualization and insights
-
-### 🖥️ Infrastructure & Deployments
-
-* **Cloud Services:** I use AWS for scalable backend infrastructure and robust cloud solutions
-* **Serverless & Frontend:** I frequently use Vercel for fast seamless deployemnts of my web apps and frontends
-* **Self hosted Homelab:** I also manage a local cluster of four mini PCs using Proxmox and Coolify to host my own private cloud enviroment and run my custom backend services docker containers
 
 ---
 *Feel free to explore my repositories or reach out if you want to collaborate on something cool*
