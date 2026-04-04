@@ -8,9 +8,9 @@ I'm a software developer with a passion for building robust backend systems, exp
 ### 🔭 Ongoing Projects
 
 * **🦊 [Phoxy.dev](https://phoxy.dev):** An intelligent, AI-powered B2B2C route planning SaaS. It uses a **RAG (Retrieval-Augmented Generation)** pipeline to combine real-time partner data (campsites, activities, prices) with LLMs to generate hallucination-free, bookable travel itineraries. Built with NestJS, PostGIS, and Mapbox.
-* **[EasyAdb](https://github.com/CanDgrmc/EasyAdb):** A TypeScript library I'm building that provides a clean, easy-to-use API for interacting with Android devices via the Android Debug Bridge (ADB). It handles connection management, device info retrieval, file transfers, and even automatic ADB downloading and setup.
-* **[doctreen](https://github.com/CanDgrmc/doctreen):** A zero-configuration middleware for Node.js (Express & Fastify) that auto-generates and serves interactive API documentation. It introspects the app at runtime and parses JSDoc comments to create a fully interactive docs UI.
-* **PathToWild:** A specialized camping application focused on discovering and sharing "Vahşi kamp alanı" (wild camping areas) and hidden nature spots, integrated with the Phoxy engine.
+* **🏕️ [PathToWild](http://pathtowild.com):** A specialized camping application focused on discovering and sharing "Vahşi kamp alanı" (wild camping areas) and hidden nature spots. Now evolving into a platform powered by the Phoxy route engine.
+* **[EasyAdb](https://github.com/CanDgrmc/EasyAdb):** A TypeScript library I'm building that provides a clean, easy-to-use API for interacting with Android devices via the Android Debug Bridge (ADB). It handles connection management and automatic setup.
+* **[doctreen](https://github.com/CanDgrmc/doctreen):** A zero-configuration middleware for Node.js (Express & Fastify) that auto-generates and serves interactive API documentation by introspecting the app at runtime.
 * **Dumbable:** An AI-based text simplifier project with a web UI and a Chrome extension designed to make reading complex or academic texts easier for everyone.
 * **Personal Data Aggregator:** A Palantir-inspired personal project focused on bringing disparate data sources (CCTV, flight data, satellite imagery) together for visualization and insights.
 
